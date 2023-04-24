@@ -4,8 +4,8 @@
             "id": "0",
             "name": "ANSEN",
             "symbolSize": 8,
-            "x": -266.82776,
-            "y": 299.6904,
+            "x": 50,
+            "y": -50,
             "value": 8,
             "category": 0
         },
@@ -22,8 +22,8 @@
             "id": "2",
             "name": "COOPER",
             "symbolSize": 100,
-            "x": -212.76357,
-            "y": 245.29176,
+            "x": 100,
+            "y": -100,
             "value": 1174,
             "category": 7
         },
