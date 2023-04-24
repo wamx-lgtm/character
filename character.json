@@ -3,16 +3,16 @@
         {
             "id": "0",
             "name": "ANSEN",
-            "symbolSize": 19.12381,
+            "symbolSize": 8,
             "x": -266.82776,
             "y": 299.6904,
-            "value": 28.685715,
+            "value": 8,
             "category": 0
         },
         {
             "id": "1",
             "name": "ASSITANT",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 4,
             "x": -418.08344,
             "y": 446.8853,
             "value": 4,
@@ -21,254 +21,245 @@
         {
             "id": "2",
             "name": "COOPER",
-            "symbolSize": 6.323809333333333,
+            "symbolSize": 100,
             "x": -212.76357,
             "y": 245.29176,
-            "value": 9.485714,
-            "category": 1
+            "value": 1174,
+            "category": 7
         },
         {
             "id": "3",
             "name": "NSA AGENT",
-            "symbolSize": 6.323809333333333,
+            "symbolSize": 3,
             "x": -242.82404,
             "y": 235.26283,
-            "value": 9.485714,
-            "category": 1
+            "value": 3,
+            "category": 0
         },
         {
             "id": "4",
             "name": "TOM",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 30,
             "x": -379.30386,
             "y": 429.06424,
-            "value": 4,
-            "category": 0
+            "value": 72,
+            "category": 3
         },
         {
             "id": "5",
             "name": "MURPH",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 45,
             "x": -417.26337,
             "y": 406.03506,
-            "value": 4,
-            "category": 0
+            "value": 224,
+            "category": 4
         },
         {
             "id": "6",
             "name": "DONALD",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 30,
             "x": -332.6012,
             "y": 485.16974,
-            "value": 4,
-            "category": 0
+            "value": 70,
+            "category": 3
         },
         {
             "id": "7",
             "name": "GOVERNMENT MAN",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 7,
             "x": -382.69568,
             "y": 475.09113,
-            "value": 4,
+            "value": 7,
             "category": 0
         },
         {
             "id": "8",
             "name": "BALLPLAYER",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 8,
             "x": -320.384,
             "y": 387.17325,
-            "value": 4,
+            "value": 8,
             "category": 0
         },
         {
             "id": "9",
             "name": "CB OPERATOR",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 9,
             "x": -320.384,
             "y": 387.17325,
-            "value": 4,
+            "value": 9,
             "category": 0
         },
         {
             "id": "10",
             "name": "OldMan",
-            "symbolSize": 2.6666666666666665,
+            "symbolSize": 13,
             "x": -344.39832,
             "y": 451.16772,
-            "value": 4,
-            "category": 0
+            "value": 13,
+            "category": 1
         },
         {
             "id": "11",
-            "name": "CB OPERATOR",
-            "symbolSize": 2.6666666666666665,
-            "x": -89.34107,
-            "y": 234.56128,
-            "value": 4,
+            "name": "MS. KELLY",
+            "symbolSize": 10,
+            "x": -87.93029,
+            "y": -6.8120565,
+            "value": 10,
             "category": 1
         },
         {
             "id": "12",
-            "name": "MS. KELLY",
-            "symbolSize": 66.66666666666667,
-            "x": -87.93029,
-            "y": -6.8120565,
-            "value": 100,
+            "name": "PRINCIPAL",
+            "symbolSize": 12,
+            "x": -339.77908,
+            "y": -184.69139,
+            "value": 12,
             "category": 1
         },
         {
             "id": "13",
-            "name": "PRINCIPAL",
-            "symbolSize": 4.495239333333333,
-            "x": -339.77908,
-            "y": -184.69139,
-            "value": 6.742859,
-            "category": 1
+            "name": "RIGGS",
+            "symbolSize": 20,
+            "x": -194.31313,
+            "y": 178.55301,
+            "value": 24,
+            "category": 2
         },
         {
             "id": "14",
-            "name": "RIGGS",
-            "symbolSize": 2.6666666666666665,
-            "x": -194.31313,
-            "y": 178.55301,
-            "value": 4,
+            "name": "OLD ENGINEER",
+            "symbolSize": 15,
+            "x": -158.05168,
+            "y": 201.99768,
+            "value": 15,
             "category": 1
         },
         {
             "id": "15",
-            "name": "OLD ENGINEER",
-            "symbolSize": 2.6666666666666665,
-            "x": -158.05168,
-            "y": 201.99768,
-            "value": 4,
-            "category": 1
+            "name": "DOYLE",
+            "symbolSize": 50,
+            "x": -127.701546,
+            "y": 242.55057,
+            "value": 422,
+            "category": 5
         },
         {
             "id": "16",
-            "name": "DOYLE",
-            "symbolSize": 2.6666666666666665,
-            "x": -127.701546,
-            "y": 242.55057,
-            "value": 4,
-            "category": 1
+            "name": "BRAND'S FATHER",
+            "symbolSize": 30,
+            "x": -385.2226,
+            "y": -393.5572,
+            "value": 84,
+            "category": 3
         },
         {
             "id": "17",
-            "name": "BRAND'S FATHER",
-            "symbolSize": 17.295237333333333,
-            "x": -385.2226,
-            "y": -393.5572,
-            "value": 25.942856,
-            "category": 2
+            "name": "TARS",
+            "symbolSize": 35,
+            "x": -516.55884,
+            "y": -393.98975,
+            "value": 199,
+            "category": 1
         },
         {
             "id": "18",
-            "name": "TARS",
-            "symbolSize": 13.638097333333334,
-            "x": -516.55884,
-            "y": -393.98975,
-            "value": 20.457146,
-            "category": 2
+            "name": "BRAND",
+            "symbolSize": 70,
+            "x": -464.79382,
+            "y": -493.57944,
+            "value": 877,
+            "category": 7
         },
         {
             "id": "19",
-            "name": "BRAND",
-            "symbolSize": 13.638097333333334,
-            "x": -464.79382,
-            "y": -493.57944,
-            "value": 20.457146,
-            "category": 2
+            "name": "CASE",
+            "symbolSize": 35,
+            "x": -515.1624,
+            "y": -456.9891,
+            "value": 263,
+            "category": 3
         },
         {
             "id": "20",
-            "name": "CASE",
-            "symbolSize": 13.638097333333334,
-            "x": -515.1624,
-            "y": -456.9891,
-            "value": 20.457146,
-            "category": 2
+            "name": "ROTH",
+            "symbolSize": 45,
+            "x": -408.12122,
+            "y": -464.5048,
+            "value": 395,
+            "category": 4
         },
         {
             "id": "21",
-            "name": "ROTH",
-            "symbolSize": 13.638097333333334,
-            "x": -408.12122,
-            "y": -464.5048,
-            "value": 20.457146,
+            "name": "CHINESE OFFICER",
+            "symbolSize": 22,
+            "x": -456.44113,
+            "y": -425.13303,
+            "value": 22,
             "category": 2
         },
         {
             "id": "22",
-            "name": "CHINESE OFFICER",
-            "symbolSize": 13.638097333333334,
-            "x": -456.44113,
-            "y": -425.13303,
-            "value": 20.457146,
+            "name": "LIU",
+            "symbolSize": 26,
+            "x": -459.1107,
+            "y": -362.5133,
+            "value": 46,
             "category": 2
         },
         {
             "id": "23",
-            "name": "LIU",
-            "symbolSize": 13.638097333333334,
-            "x": -459.1107,
-            "y": -362.5133,
-            "value": 20.457146,
+            "name": "FARMER",
+            "symbolSize": 24,
+            "x": -313.42786,
+            "y": -289.44803,
+            "value": 24,
             "category": 2
         },
         {
             "id": "24",
-            "name": "FARMER",
-            "symbolSize": 28.266666666666666,
-            "x": -313.42786,
-            "y": -289.44803,
-            "value": 42.4,
+            "name": "EMILY COOPER",
+            "symbolSize": 27.5,
+            "x": 4.6313396,
+            "y": -273.8517,
+            "value": 54,
             "category": 2
         },
         {
             "id": "25",
-            "name": "EMILY COOPER",
-            "symbolSize": 20.95238266666667,
-            "x": 4.6313396,
-            "y": -273.8517,
-            "value": 31.428574,
-            "category": 7
+            "name": "MURPH'S WIFE",
+            "symbolSize": 24,
+            "x": 82.80825,
+            "y": -203.1144,
+            "value": 27,
+            "category": 2
         },
         {
             "id": "26",
-            "name": "MURPH'S WIFE",
-            "symbolSize": 30.095235333333335,
-            "x": 82.80825,
-            "y": -203.1144,
-            "value": 45.142853,
-            "category": 7
+            "name": "WIFE",
+            "symbolSize": 24,
+            "x": 78.64646,
+            "y": -31.512747,
+            "value": 27,
+            "category": 2
         },
         {
             "id": "27",
-            "name": "WIFE",
-            "symbolSize": 20.95238266666667,
-            "x": 78.64646,
-            "y": -31.512747,
-            "value": 31.428574,
-            "category": 6
+            "name": "ADMINISTRATOR",
+            "symbolSize": 24,
+            "x": -81.46074,
+            "y": -204.20204,
+            "value": 28,
+            "category": 2
         },
         {
             "id": "28",
-            "name": "ADMINISTRATOR",
-            "symbolSize": 31.923806666666668,
-            "x": -81.46074,
-            "y": -204.20204,
-            "value": 47.88571,
-            "category": 7
-        },
-        {
-            "id": "29",
             "name": "DOCTOR",
-            "symbolSize": 8.152382000000001,
+            "symbolSize": 24,
             "x": -225.73984,
             "y": 82.41631,
-            "value": 12.228573,
-            "category": 4
+            "value": 28,
+            "category": 2
         }
     ],
     "links": [
@@ -419,10 +410,6 @@
         {
             "source": "2",
             "target": "28"
-        },
-        {
-            "source": "2",
-            "target": "29"
         },
         {
             "source": "4",
