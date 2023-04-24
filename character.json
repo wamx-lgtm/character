@@ -13,7 +13,7 @@
             "id": "1",
             "name": "ASSITANT",
             "symbolSize": 4,
-            "x": -41,
+            "x": -401,
             "y": 44,
             "value": 4,
             "category": 0
@@ -32,7 +32,7 @@
             "name": "NSA AGENT",
             "symbolSize": 3,
             "x": -24,
-            "y": 23,
+            "y": 203,
             "value": 3,
             "category": 0
         },
@@ -40,7 +40,7 @@
             "id": "4",
             "name": "TOM",
             "symbolSize": 30,
-            "x": -37,
+            "x": -307,
             "y": 42,
             "value": 72,
             "category": 3
@@ -67,7 +67,7 @@
             "id": "7",
             "name": "GOVERNMENT MAN",
             "symbolSize": 7,
-            "x": -38,
+            "x": -380,
             "y": 47,
             "value": 7,
             "category": 0
@@ -77,7 +77,7 @@
             "name": "BALLPLAYER",
             "symbolSize": 8,
             "x": -32,
-            "y": 38,
+            "y": 308,
             "value": 8,
             "category": 0
         },
@@ -85,7 +85,7 @@
             "id": "9",
             "name": "CB OPERATOR",
             "symbolSize": 9,
-            "x": -32,
+            "x": -352,
             "y": 38,
             "value": 9,
             "category": 0
@@ -94,7 +94,7 @@
             "id": "10",
             "name": "OldMan",
             "symbolSize": 13,
-            "x": -34,
+            "x": -344,
             "y": 45,
             "value": 13,
             "category": 1
@@ -112,7 +112,7 @@
             "id": "12",
             "name": "PRINCIPAL",
             "symbolSize": 12,
-            "x": -33,
+            "x": -3,
             "y": -18,
             "value": 12,
             "category": 1
@@ -148,7 +148,7 @@
             "id": "16",
             "name": "BRAND'S FATHER",
             "symbolSize": 30,
-            "x": -38,
+            "x": -300,
             "y": -39,
             "value": 84,
             "category": 3
@@ -157,7 +157,7 @@
             "id": "17",
             "name": "TARS",
             "symbolSize": 35,
-            "x": -51,
+            "x": -510,
             "y": -39,
             "value": 199,
             "category": 1
@@ -167,7 +167,7 @@
             "name": "BRAND",
             "symbolSize": 70,
             "x": -46,
-            "y": -49,
+            "y": -490,
             "value": 877,
             "category": 7
         },
@@ -184,7 +184,7 @@
             "id": "20",
             "name": "ROTH",
             "symbolSize": 45,
-            "x": -48.12122,
+            "x": 48.12122,
             "y": -44.5048,
             "value": 395,
             "category": 4
@@ -193,7 +193,7 @@
             "id": "21",
             "name": "CHINESE OFFICER",
             "symbolSize": 22,
-            "x": -56.44113,
+            "x": 356.44113,
             "y": -42.13303,
             "value": 22,
             "category": 2
@@ -202,7 +202,7 @@
             "id": "22",
             "name": "LIU",
             "symbolSize": 26,
-            "x": -59.1107,
+            "x": -9.1107,
             "y": -32.5133,
             "value": 46,
             "category": 2
@@ -212,7 +212,7 @@
             "name": "FARMER",
             "symbolSize": 24,
             "x": -31.42786,
-            "y": -89.44803,
+            "y": -9.44803,
             "value": 24,
             "category": 2
         },
